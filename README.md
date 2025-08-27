@@ -3,13 +3,12 @@
 ## <h1 align="center">Hi there 👋, I'm Joshua!</h1>
 <p align="center"><strong><code>Software Developer (💻 Full-Stack Developer | React & PHP)</code></strong></p>
 
-
-<img align="right" src="https://avatars.githubusercontent.com/your-username" width="200" style="border-radius: 50%; margin-top: 10px; margin-left: 20px;" alt="Joshua's Profile Picture" />
+<!-- <img align="right" src="https://avatars.githubusercontent.com/your-username" width="200" style="border-radius: 50%; margin-top: 10px; margin-left: 20px;" alt="Joshua's Profile Picture" /> -->
 
 
 I'm a passionate developer from Nigeria 🇳🇬 who builds full-stack web applications with **React** and **PHP**. I love solving problems, creating intuitive user experiences, and writing clean, maintainable code.
 
-🔭 Currently working on scalable web apps  <br>🌱 Learning advanced Laravel and React patterns  <br>💬 Ask me about full-stack development, REST APIs, or MySQL optimization  <br>🎧 I enjoy building creative tools for web  <br>⚡ Fun fact: I believe great code should feel effortless to read and powerful to run 
+🔭 Currently working on scalable web apps  <br>🌱 Learning advanced Laravel and React patterns  <br>💬 Ask me about full-stack development, REST APIs, or MySQL optimization  <br>🎧 I enjoy building creative tools for the web  <br>⚡ Fun fact: I believe great code should feel effortless to read and powerful to run 
 
 ##
 
@@ -75,25 +74,27 @@ I'm a passionate developer from Nigeria 🇳🇬 who builds full-stack web appli
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Joshua65676&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Joshua65676&theme=blue-green&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua65676&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 <br/>
 
+<!--
 <p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Joshua65676&theme=blue-green&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua65676&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
-
+-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Joshua65676&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-
+<!--
 <p align="center">
   <img src="your-anime-image-url-here" width="300" alt="Anime-style Profile Picture" />
 </p>
-
+-->
 <p align="center">
   <b>Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.</b>
 </p>
