@@ -45,15 +45,11 @@ I'm a passionate developer from Nigeria 🇳🇬 who builds full-stack web appli
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" alt="Vercel" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37" alt="Expo" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white" alt="Laravel" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" alt="Next.js" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="Node.js" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React" />
   &nbsp;&nbsp;
@@ -62,8 +58,6 @@ I'm a passionate developer from Nigeria 🇳🇬 who builds full-stack web appli
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="Figma" />
   &nbsp;&nbsp;
